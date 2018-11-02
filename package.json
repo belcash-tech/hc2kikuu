@@ -1,0 +1,23 @@
+{
+  "name": "hc2kikuu",
+  "version": "1.0.0",
+  "description": "HelloCash API Integration sample for Kikuu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/belcash-tech/hc2kikuu.git"
+  },
+  "keywords": [
+    "HelloCash",
+    "API"
+  ],
+  "author": "Yared Getachew <yared.getachew@belcash.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belcash-tech/hc2kikuu/issues"
+  },
+  "homepage": "https://github.com/belcash-tech/hc2kikuu#readme"
+}
